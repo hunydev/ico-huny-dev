@@ -1,0 +1,5 @@
+{
+  "name": "ICO Quick-Converter",
+  "description": "An application to automatically remove the background from an image, resize it to custom dimensions, and save it as an ICO file, all in one seamless process.",
+  "requestFramePermissions": []
+}
